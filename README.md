@@ -4,3 +4,4 @@
   <li><a href="https://docs.google.com/document/d/1WZdhntcrUsWPAjKs5X6GdM9ZbyNwzrfFjSmI127KXxc/edit?usp=sharing">Task 1</a></li>
   <li><a href="https://docs.google.com/document/d/1QtuaGpK64cNyGNikgTw8BIJovDrSB4zj4YdAIvicXu4/edit?usp=sharing">Task 2</a></li>
 </ul>
+  <img align = "right" src="https://media.giphy.com/media/859aM054x6R1fOmqm6/giphy.gif" alt="Картинка" height=200>
